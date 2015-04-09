@@ -14,6 +14,6 @@ public class SuiteAccess extends Activity {
         setContentView(R.layout.main);
         WebView webView = new WebView(this);
         setContentView(webView);
-        webView.loadUrl("https://127.0.0.1:8000");
+        webView.loadUrl("https://raspberrypi:8000");
     }
 }

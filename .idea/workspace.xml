@@ -25,10 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a10adade-0b67-4c22-b683-1ed940328fcd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/HomeAutomationApp/SuiteAccess.java" afterPath="$PROJECT_DIR$/src/com/example/HomeAutomationApp/SuiteAccess.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/main.xml" afterPath="$PROJECT_DIR$/res/layout/main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
     </list>
     <ignored path="HomeAutomationApp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -99,7 +96,7 @@
       <file leaf-file-name="SuiteAccess.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/HomeAutomationApp/SuiteAccess.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="53" selection-start="304" selection-end="304" vertical-scroll-proportion="0.2125">
+            <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -154,8 +151,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="629" />
-    <option name="y" value="230" />
+    <option name="x" value="443" />
+    <option name="y" value="314" />
     <option name="width" value="1609" />
     <option name="height" value="1064" />
   </component>
@@ -436,7 +433,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="629" y="230" width="1609" height="1064" extended-state="1" />
+    <frame x="443" y="314" width="1609" height="1064" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24111183" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -553,7 +550,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/HomeAutomationApp/SuiteAccess.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="53" selection-start="304" selection-end="304" vertical-scroll-proportion="0.2125">
+        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
